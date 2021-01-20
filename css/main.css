@@ -41,10 +41,7 @@ p {
 .wrapper {
 	display: flex;
 	justify-content: space-between;
-}
-
-.offer {
-	margin-top: 140px;
+	align-items: center;
 }
 
 .title {
@@ -93,7 +90,7 @@ p {
 .skills {
 	display: flex;
 	justify-content: space-between;
-	margin: 70px;
+	padding: 70px;
 }
 
 .skill {
@@ -103,7 +100,7 @@ p {
 
 .skill-title {
 	font-size: 19px;
-	margin-top: 85px;
+	padding-top: 85px;
 }
 
 .skill-text {
